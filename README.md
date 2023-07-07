@@ -1,4 +1,4 @@
 # WebGL-Boids
 First experience with WebGL!
 
-Run ```npm install``` to get twgl.js
+[GitHub Pages Demo](https://edricy.github.io/WebGL-Boids/)
